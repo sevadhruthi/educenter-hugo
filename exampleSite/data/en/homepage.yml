@@ -13,10 +13,9 @@ slider:
       enable: true
       label: Apply now
       link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: " Our Vision is"
+    content: Creating a society where everyone has the resources to be educated, feel
+      part of a vibrant community and lead healthy lives
     animation_in: left
     animation_out: right
     button:
