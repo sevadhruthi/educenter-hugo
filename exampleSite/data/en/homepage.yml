@@ -22,10 +22,12 @@ slider:
       enable: true
       label: Apply now
       link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Our Mission
+    content: |-
+      - Upliftment of financially under-privileged individuals and communities through supporting access to education, basic
+      necessities, healthcare, community facilities etc;
+      - Build camaraderie, co-operation and character through supporting/organizing sports, yoga and group activities;
+      - Support farming and small-scale industry by encouraging innovations and organic methods
     animation_in: left
     animation_out: right
     button:
